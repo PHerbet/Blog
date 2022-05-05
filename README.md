@@ -6,4 +6,4 @@ Exercise in [PHP](https://www.php.net/) to create a blog in [object-oriented pro
 [LeefEUW](https://github.com/LeefEUW)  
 [MrTruitedev](https://github.com/MrTruitedev)  
 [pathei-kosmos](https://github.com/pathei-kosmos)  
-[Shotto22](https://github.com/Shotto22)  
+[Nimaa31](https://github.com/Nimaa31)  
